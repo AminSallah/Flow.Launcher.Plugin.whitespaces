@@ -1,0 +1,12 @@
+{
+    "ID": "2D9E4D373DAD4CC2B93C2257F1CCB80A",
+    "ActionKeyword": "s",
+    "Name": "whitespaces",
+    "Description": "a new plugin for Flow",
+    "Author": "Amin",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/Amin/Flow.Launcher.Plugin.whitespaces",
+    "IcoPath": "icon.png",
+    "ExecuteFileName": "Flow.Launcher.Plugin.whitespaces.dll"
+}
