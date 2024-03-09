@@ -31,6 +31,11 @@ namespace Flow.Launcher.Plugin.whitespaces
                 Title = "Is WhiteSpace: " + EndsWithSpace.ToString(),
                 SubTitle = "Last Char: " + LastChar
             });
+            Results.Add(new Result
+            {
+                Title = "Ends with the letter a : " + query.Search.EndsWith("a").ToString(),
+                SubTitle = "Last Char: " + LastChar
+            });
             return Results;
         }
     }
